@@ -2,7 +2,7 @@
 
 IGL of EV (Eclipse Vanguard) eSports Team for VALORANT
 
-Working as a developer in the third-party developer department for Riot Games
+Working in the third-party developer department for Riot Games
 
 🌱 Programming languages:
 - ✔️ Done: C# - CSS - HTML

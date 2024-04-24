@@ -1,4 +1,8 @@
-👋 Hi name's Mobin. Currently studying Computer Science in University of Tabriz, Iran and working as a developer for Riot Games
+👋 Hi name's Mobin. Currently studying Computer Science in the University
+
+IGL of EV (Eclipse Vanguard) eSports Team for VALORANT
+
+Working as a developer in the third-party developer department for Riot Games
 
 🌱 Programming languages:
 - ✔️ Done: C# - CSS - HTML

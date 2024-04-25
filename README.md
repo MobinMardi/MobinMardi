@@ -1,4 +1,4 @@
-👋 Hi name's Mobin. Currently studying Computer Science in the University
+👋 Hi name's Mobin. Currently studying Computer Science in University
 
 IGL of EV (Eclipse Vanguard) eSports Team for VALORANT
 

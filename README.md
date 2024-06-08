@@ -1,8 +1,8 @@
 👋 Hi name's Mobin. Currently studying Computer Engineering in University
 
-IGL of EV (Eclipse Vanguard) ESPORTS Team for VALORANT
+IGL of EV (Eclipse Vanguard) eSports Team
 
-Working in the third-party developer department for Riot Games
+Working as a Community Manager on VALORANT at Riot Games
 
 🌱 Programming languages:
 - ✔️ Done: Python - C# - CSS - HTML

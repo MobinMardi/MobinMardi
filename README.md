@@ -12,7 +12,7 @@ Working as a Community Manager on VALORANT at Riot Games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mobinmardiofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mobinmardiofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/riotmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RiotmDev" height="30" width="40" /></a>
 <a href="https://dev.to/mobinmardi" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="mobinmardi" height="30" width="40" /></a>
 </p>
 <!---

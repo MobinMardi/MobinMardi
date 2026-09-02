@@ -4,10 +4,6 @@ IGL of EV (Exo Vanguard) Esports Team
 
 Working as a Community Manager on VALORANT at Riot Games
 
-🌱 Programming languages:
-- ✔️ Done: Python - C# - CSS - HTML
-- 🔃 In progress: C++ - Java - JS
-
 ⚡ Fun fact: 1000+ hrs playtime on VALORANT
 
 <h3 align="left">Connect with me:</h3>
